@@ -12,10 +12,7 @@
     "esbuild": "^0.21.4",
     "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0"
-  },
-  "scripts": {
-    "build": "esbuild app/javascript/*.* --bundle --sourcemap --format=esm --outdir=app/assets/builds --public-path=/assets"
-  },
+asd2  },
   "browserslist": [
     "defaults"
   ]
